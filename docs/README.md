@@ -1,7 +1,7 @@
 ---
 lang: en-US
-title: Title of this page
-description: Description of this page
+title: Snyk's User Documentation
+description: It's got bits of real panther in it, so you know it works.
 ---
 
 # Welcome to Snyk's Documentation
