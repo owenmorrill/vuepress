@@ -14,3 +14,14 @@ export default defineUserConfig<DefaultThemeOptions>({
         favicon: '/favicon.ico',
     },
 })
+
+module.exports = {
+    plugins: [
+        [
+            '@vuepress/plugin-google-analytics',
+            {
+                id: 'G-NMBHH05G87',
+            },
+        ],
+    ],
+}

@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/owenmorrill/vuepress#readme",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.36",
     "vuepress": "^2.0.0-beta.36"
   }
 }
