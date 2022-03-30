@@ -4,7 +4,8 @@
   "description": "Vuepress v2 Snyk Docs",
   "main": "index.js",
   "scripts": {
-    "test": "tes"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/owenmorrill/vuepress/issues"
   },
-  "homepage": "https://github.com/owenmorrill/vuepress#readme"
+  "homepage": "https://github.com/owenmorrill/vuepress#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36"
+  }
 }
