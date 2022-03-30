@@ -13,9 +13,6 @@ export default defineUserConfig<DefaultThemeOptions>({
         logo: '/snyk-api.svg',
         favicon: '/favicon.ico',
     },
-})
-
-module.exports = {
     plugins: [
         [
             '@vuepress/plugin-google-analytics',
@@ -24,4 +21,4 @@ module.exports = {
             },
         ],
     ],
-}
+})
