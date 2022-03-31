@@ -16,4 +16,6 @@ This is default theme built-in `<Badge />` component <Badge text="demo" />
 
 Checkout [Buil-in components](https://v2.vuepress.vuejs.org/reference/components.html)
 
+[The cake is a lie](./new-page-test.md)
+
 [[toc]]
