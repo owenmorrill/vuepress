@@ -1,3 +1,8 @@
+---
+permalink: /current-permalink
+redirectFrom: /old-permalink
+---
+
 # New page test
 
 This was a triumph
