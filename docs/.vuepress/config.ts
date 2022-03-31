@@ -10,6 +10,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
+        repo: 'owenmorrill/vuepress',
+        editLinks: true,
         logo: '/logo.png',
         favicon: '/favicon.ico',
         navbar: [

@@ -24,4 +24,4 @@ You can adjust the option for the developer tools used in your project. Any vali
 
 `--target-reference` allows you to create sub-groupings on the Projects page.
 
-![A project page with sub-groups.](../../.gitbook/assets/project-grouping-with-sub-groups.png)
+BREAKING ALL THE IMAGES [A project page with sub-groups.](../../.gitbook/assets/project-grouping-with-sub-groups.png)

@@ -48,9 +48,9 @@ Note that only successful test results are forwarded to `snyk fix`. In addition,
 
 ## Enabling snyk fix
 
-To enable snyk fix during the beta period, click on **Settings** ![](../../../.gitbook/assets/cog\_icon.png) > **Snyk Preview**. Enable the **snyk fix feature** and click **Save changes**.
+To enable snyk fix during the beta period, click on **Settings** BREAKING ALL THE IMAGES [](../../../.gitbook/assets/cog\_icon.png) > **Snyk Preview**. Enable the **snyk fix feature** and click **Save changes**.
 
-![Enabling Snyk fix in the Snyk Preview settings](../../.gitbook/assets/enabling-snyk-fix.jpg)
+BREAKING ALL THE IMAGES [Enabling Snyk fix in the Snyk Preview settings](../../.gitbook/assets/enabling-snyk-fix.jpg)
 
 The `snyk fix` command supports all the `snyk test` command options and has the following additional options:
 

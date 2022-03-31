@@ -37,7 +37,7 @@ You can log in to the Snyk app and navigate to the [Projects page](https://app.s
 
 For more information see [Monitor your projects at regular intervals](../secure-your-projects-in-the-long-term/monitor-your-projects-at-regular-intervals.md).
 
-![Snyk monitor snapshot and scan results](<../../.gitbook/assets/monitor (1).png>)
+BREAKING ALL THE IMAGES [Snyk monitor snapshot and scan results](<../../.gitbook/assets/monitor (1).png>)
 
 ## Running out of tests
 

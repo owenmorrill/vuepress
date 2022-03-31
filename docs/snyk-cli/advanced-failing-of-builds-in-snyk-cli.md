@@ -50,11 +50,11 @@ Security policies do not have all attributes available for criteria matching. Re
 
 Here is an example of `snyk test` using `--severity-threshold=high` running against a default organization with no policy applied to it.
 
-![Test against a default organization with no policy applied to it](https://gblobscdn.gitbook.com/assets%2F-MVXKdrh-jY3KDGPs8lQ%2F-MZT\_W3O1oFyMAzF9g3s%2F-MZTrc0D6NjT6VlS1jmU%2Fimage.png?alt=media\&token=27e0ee8c-147f-4942-ada4-08de07f67c40)
+BREAKING ALL THE IMAGES [Test against a default organization with no policy applied to it](https://gblobscdn.gitbook.com/assets%2F-MVXKdrh-jY3KDGPs8lQ%2F-MZT\_W3O1oFyMAzF9g3s%2F-MZTrc0D6NjT6VlS1jmU%2Fimage.png?alt=media\&token=27e0ee8c-147f-4942-ada4-08de07f67c40)
 
 Here is an example `snyk test` using `--severity-threshold=high` running against an organization with a policy that downgrades this particular vulnerability severity to `low`. There are no vulnerabilities found.
 
-![Test against an organization with a policy applied](../../.gitbook/assets/test-organization-with-policy-applied.png)
+BREAKING ALL THE IMAGES [Test against an organization with a policy applied](../../.gitbook/assets/test-organization-with-policy-applied.png)
 
 ## Companion tools
 

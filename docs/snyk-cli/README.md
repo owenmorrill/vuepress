@@ -2,7 +2,7 @@
 
 [Snyk](https://snyk.io) scans and monitors your projects for security vulnerabilities. The following shows an example of Snyk CLI test command output.
 
-![Snyk CLI test command output](../.gitbook/assets/snyk-cli-screenshot.png)
+BREAKING ALL THE IMAGES [Snyk CLI test command output](../.gitbook/assets/snyk-cli-screenshot.png)
 
 ## What is Snyk?
 
