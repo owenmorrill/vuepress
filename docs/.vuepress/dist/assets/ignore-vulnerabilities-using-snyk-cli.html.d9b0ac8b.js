@@ -1,0 +1,1 @@
+const i={key:"v-18380678",path:"/snyk-cli/ignore-vulnerabilities-using-snyk-cli.html",title:"Ignore vulnerabilities using Snyk CLI",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/ignore-vulnerabilities-using-snyk-cli.md"};export{i as data};

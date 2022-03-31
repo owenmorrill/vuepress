@@ -1,0 +1,1 @@
+const e={key:"v-8f705270",path:"/snyk-cli/test-for-vulnerabilities.html",title:"Test for vulnerabilities",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/test-for-vulnerabilities.md"};export{e as data};

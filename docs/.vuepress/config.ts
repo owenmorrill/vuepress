@@ -4,7 +4,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 export default defineUserConfig<DefaultThemeOptions>({
     // site config
     lang: 'en-US',
-    title: 'Snyk VueDocs',
+    title: 'Snyk User Documentation',
     description: 'Much like Highlander, there can be only one.',
 
     // theme and its config
@@ -13,6 +13,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         repo: 'owenmorrill/vuepress',
         editLinks: true,
         logo: '/logo.png',
+        logoDark: '/logoDark.png',
         favicon: '/favicon.ico',
         navbar: [
             // NavbarItem
@@ -23,7 +24,41 @@ export default defineUserConfig<DefaultThemeOptions>({
             },
             {
                 text: 'CLI',
-                link: '/snyk-cli/',
+                children: [
+                    {
+                        text: 'Snyk',
+                        children: [
+                            {
+                                text: 'CLI',
+                                link: '/snyk-cli/README.html',
+                            },
+                            '/snyk-cli/config.md',
+                            '/snyk-cli/frontmatter.md',
+                            '/snyk-cli/components.md',
+                            '/snyk-cli/plugin-api.md',
+                            '/snyk-cli/theme-api.md',
+                            '/snyk-cli/client-api.md',
+                            '/snyk-cli/node-api.md',
+                        ],
+                    },
+                    {
+                        text: 'Bundlers',
+                        children: [
+
+                        ],
+                    },
+                    {
+                        text: 'Default Theme',
+                        children: [
+                            '/snyk-cli/default-theme/config.md',
+                            '/snyk-cli/default-theme/frontmatter.md',
+                            '/snyk-cli/default-theme/components.md',
+                            '/snyk-cli/default-theme/markdown.md',
+                            '/snyk-cli/default-theme/styles.md',
+                            '/snyk-cli/default-theme/extending.md',
+                        ],
+                    },
+                ],
             },
             // NavbarGroup
             {
@@ -62,6 +97,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     },
     plugins: [
         ['redirect-frontmatter'],
+        // ['@vuepress/plugin-search'],
         [
             '@vuepress/plugin-google-analytics',
             {

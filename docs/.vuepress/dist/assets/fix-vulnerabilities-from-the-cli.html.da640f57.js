@@ -1,0 +1,1 @@
+const e={key:"v-327e66d2",path:"/snyk-cli/fix-vulnerabilities-from-the-cli.html",title:"Fix vulnerabilities from the CLI",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/fix-vulnerabilities-from-the-cli.md"};export{e as data};

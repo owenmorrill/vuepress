@@ -1,0 +1,1 @@
+const e={key:"v-22628602",path:"/snyk-cli/set-severity-thresholds-for-cli-tests.html",title:"Set severity thresholds for CLI tests",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/set-severity-thresholds-for-cli-tests.md"};export{e as data};

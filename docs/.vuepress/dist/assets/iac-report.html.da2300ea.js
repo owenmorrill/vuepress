@@ -1,0 +1,1 @@
+const e={key:"v-28eff98d",path:"/snyk-cli/iac-report.html",title:"IAC report",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Usage",slug:"usage",children:[]}],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/iac-report.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-5fb2c182",path:"/snyk-cli/view-cli-test-results.html",title:"View CLI test results",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/view-cli-test-results.md"};export{e as data};

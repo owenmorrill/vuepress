@@ -1,0 +1,1 @@
+const a={key:"v-30740ce1",path:"/snyk-cli/scan-all-unmanaged-jar-files.html",title:"Scan all unmanaged JAR files",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759557e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:2}]},filePathRelative:"snyk-cli/scan-all-unmanaged-jar-files.md"};export{a as data};

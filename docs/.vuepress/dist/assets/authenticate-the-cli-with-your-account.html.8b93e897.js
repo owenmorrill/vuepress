@@ -1,0 +1,1 @@
+const t={key:"v-3c31002c",path:"/snyk-cli/authenticate-the-cli-with-your-account.html",title:"Authenticate the CLI with your account",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759557e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:2}]},filePathRelative:"snyk-cli/authenticate-the-cli-with-your-account.md"};export{t as data};

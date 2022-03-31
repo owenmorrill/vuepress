@@ -1,0 +1,1 @@
+const r={key:"v-28870b17",path:"/snyk-cli/grouping-projects-by-branch-or-version.html",title:"Separating projects by branch or version",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759557e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:2}]},filePathRelative:"snyk-cli/grouping-projects-by-branch-or-version.md"};export{r as data};

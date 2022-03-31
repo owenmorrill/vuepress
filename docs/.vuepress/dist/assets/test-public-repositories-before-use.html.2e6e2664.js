@@ -1,0 +1,1 @@
+const e={key:"v-33931b4c",path:"/snyk-cli/test-public-repositories-before-use.html",title:"Test public repositories before use",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/test-public-repositories-before-use.md"};export{e as data};

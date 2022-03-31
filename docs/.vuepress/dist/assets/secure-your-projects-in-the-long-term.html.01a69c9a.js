@@ -1,0 +1,1 @@
+const e={key:"v-d57c0eb2",path:"/snyk-cli/secure-your-projects-in-the-long-term.html",title:"Secure your projects in the long term",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/secure-your-projects-in-the-long-term.md"};export{e as data};

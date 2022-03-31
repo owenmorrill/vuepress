@@ -1,0 +1,1 @@
+const t={key:"v-937f39a0",path:"/snyk-cli/protect-your-code-with-patches.html",title:"Protect your code with patches",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648759092e3,contributors:[{name:"Owen Morrill",email:"owen.morrill@snyk.io",commits:1}]},filePathRelative:"snyk-cli/protect-your-code-with-patches.md"};export{t as data};
